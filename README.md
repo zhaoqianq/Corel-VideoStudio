@@ -1,4 +1,5 @@
 # Corel VideoStudio
+> https://masuit.com/1237
 
 ![](https://github.com/CrackGroup/Corel-VideoStudio/blob/img/img01.jpg?raw=true)
 
